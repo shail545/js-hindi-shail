@@ -37,8 +37,40 @@
 
 let someNumber = 33
 let numstr =String(someNumber)
-console.log(numstr);   // 33
-console.log(typeof numstr);   //string
+// console.log(numstr);   // 33
+// console.log(typeof numstr);   //string
+
+// *********************conversion*********************
+
+let value = 3
+let negValue = -value
+// console.log(negValue);   // -3
+// console.log(2**3);  // 8
+// console.log(2*3);   // 6 
+
+// let str1 = "Shail"
+// let str2 = " _545"
+// let str3 = str1 + str2
+// console.log(str3);
+
+// console.log("1"+2);  // 12
+// console.log(1+"2");  // 12
+// console.log("1"+2+2); // 122
+// console.log(1+2+"2");  // 33
+
+
+// console.log(true);  // true 
+// console.log(+true); // 1
+// console.log(true+);  // error
+
+
+let gameCounter = 100
+gameCounter++
+console.log(gameCounter);  // 101
+
+
+
+
 
 
 
