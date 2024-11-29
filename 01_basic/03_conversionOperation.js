@@ -68,6 +68,11 @@ let gameCounter = 100
 gameCounter++
 console.log(gameCounter);  // 101
 
+let sh=134
+sh--
+console.log(sh);
+
+
 
 
 
